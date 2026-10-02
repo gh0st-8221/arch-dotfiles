@@ -1,0 +1,33 @@
+[general]
+border_width = 1
+default_width = 2560
+default_height = 1440
+
+[colors]
+bg = "0x101010"
+fg = "0xffffff"
+border = "0x303030"
+focus = "0x0000ff"
+
+[monitors]
+hdmi_pos = "2560x310"
+dp_pos = "0x0"
+
+[autostart]
+cmd = "killall dunst; dunst"
+cmd = "polybar main"
+cmd = "setxkbmap -layout us,ua -option grp:win_space_toggle"
+
+[keys]
+Mod4+q = "alacritty"
+Mod4+w = "firefox"
+Mod4+c = "close-window"
+Mod4+d = "rofi -show drun"
+Mod4+Shift+w = "~/git/polybar-toggle/polybar-toggle"
+Mod4+Tab = "alt-tab"
+Mod1+1 = "workspace_1"
+Mod1+2 = "workspace_2"
+Mod1+Shift+1 = "cursor_workspace_1"
+Mod1+Shift+2 = "cursor_workspace_2"
+Mod4+Shift+r = "killall -USR1 ghostwm"
+Shift+Print = "~/git/xscreencopy/xscreencopy"
