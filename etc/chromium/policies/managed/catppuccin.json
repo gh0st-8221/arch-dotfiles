@@ -1,0 +1,16 @@
+{
+  "ExtensionInstallForcelist": [
+    "bkkmolkhemgaeaeggcmfbghljjjoofoh;https://clients2.google.com/service/update2/crx",
+    "eimadpbcbfnmbkopoojfekhnkhdbieeh;https://clients2.google.com/service/update2/crx",
+    "pkehgijcmpdhfbdbbnkijodmdjhbjlgp;https://clients2.google.com/service/update2/crx",
+    "ghmbeldphafepmbegfdlkpapadhbakde;https://clients2.google.com/service/update2/crx",
+    "mnjggcdmjocbbbhaepdhchncahnbgone;https://clients2.google.com/service/update2/crx",
+    "ddkjiahejlhfcafbddmgiahcphecmpfh;https://clients2.google.com/service/update2/crx"
+  ],
+  "HomepageIsNewTabPage": false,
+  "HomepageLocation": "chrome://newtab",
+  "ShowHomeButton": false,
+  "NewTabPageLocation": "chrome://newtab",
+  "RestoreOnStartup": 4,
+  "RestoreOnStartupURLs": ["chrome://newtab"]
+}

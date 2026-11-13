@@ -1,0 +1,5 @@
+wireguard-dkms
+xdg-desktop-portal-termfilechooser-git
+xdg-desktop-portal-termfilechooser-git-debug
+yay-bin
+yay-bin-debug
