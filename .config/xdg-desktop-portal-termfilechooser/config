@@ -1,0 +1,3 @@
+[filechooser]
+cmd=/home/ghost/.config/xdg-desktop-portal-termfilechooser/yazi-wrapper.sh
+create_help_file=0
